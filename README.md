@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">I am a python ANDY</h3>
 
-<img align="right" alt="banner" width="400" src="https://i.redd.it/o9lomotq3i7a1.gif">
+<img align="right" alt="banner" width="400" src="https://aniyuki.com/wp-content/uploads/2021/09/aniyuki-sad-anime-gif-58.gif">
 
 - 🔭 I’m currently studying as **Computer Science Student**
 
