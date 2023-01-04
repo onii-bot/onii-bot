@@ -1,3 +1,5 @@
+![logo](https://github.com/onii-bot/onii-bot/blob/main/github_banner.gif)
+
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">I am a python ANDY</h3>
 
