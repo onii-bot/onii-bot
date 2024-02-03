@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying as **Computer Science Student**
 
-- 🌱 I’m currently learning **JS, CSS**
+- 🌱 I’m currently learning **RUST**
 
 - 📫 How to reach me **aayushpaudel311@gmail.com**
 
